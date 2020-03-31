@@ -1,0 +1,17 @@
+hr {
+
+    border-top: 3px solid black;
+
+}
+
+.col-3 {
+
+    border-right: 1px dashed black;
+
+}
+
+#no-col {
+
+    border-right: 0;
+
+}
